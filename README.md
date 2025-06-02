@@ -6,3 +6,9 @@ this is my first project
  Main.java 
  <br>
  in terminal 
+ <br>
+ 1. Signup
+2. Login
+3. Exit
+Choose:
+choose ours need 
