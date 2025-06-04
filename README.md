@@ -7,71 +7,73 @@ this is my first project
  <br>
  in terminal 
  <br>
- 1. Signup
-3. Login
-4. Exit
+ 1. Signup <br>
+3. Login <br>
+4. Exit <br>
 Choose:
 <br>
 choose ours need
 <br>
-1. Signup
-2. Login
-3. Exit
+1. Signup <br>
+2. Login <br>
+3. Exit <br>
  <br>
 Choose: 1
+ <br>
 Enter name: adarsh thakur
-Enter email: adarsh@gmail.com
-Enter password: adarsh@1
-Enter role (ADMIN/STUDENT): student
+ <br>
+Enter email: adarsh@gmail.com <br>
+Enter password: adarsh@1 <br>
+Enter role (ADMIN/STUDENT): student <br>
 User registered successfully!
 <br>
 1. Signup
 2. Login
 3. Exit
    <br>
-Choose: 2
-Enter email: adarsh@gmail.com
-Enter password: adarsh@123
-Invalid password.
+Choose: 2 <br>
+Enter email: adarsh@gmail.com <br>
+Enter password: adarsh@123 <br>
+Invalid password. <br>
 
-1. Signup
-2. Login
-3. Exit
-Choose: 2
-Enter email: adarsh@gmail.com
-Enter password: adarsh@1
-Login successful! Welcome, adarsh thakur (STUDENT)
+1. Signup <br>
+2. Login <br>
+3. Exit <br>
+Choose: 2 <br>
+Enter email: adarsh@gmail.com <br>
+Enter password: adarsh@1 <br>
+Login successful! Welcome, adarsh thakur (STUDENT) <br>
 
-1. Signup
-2. Login
-3. Exit
-Choose: 1     
-Enter name: adarsh
-Enter email: adarsh@gmail.com
-Enter password: adarsh@11
-Enter role (ADMIN/STUDENT): admin
-User already exists with this email.
+1. Signup <br>
+2. Login <br>
+3. Exit <br>
+Choose: 1      <br>
+Enter name: adarsh <br>
+Enter email: adarsh@gmail.com <br>
+Enter password: adarsh@11 <br>
+Enter role (ADMIN/STUDENT): admin <br>
+User already exists with this email. <br>
 
-1. Signup
-2. Login
-3. Exit
-Choose: 1
-Enter name: akash       
-Enter email: akash@gmail.com
-Enter password: akash
-Enter role (ADMIN/STUDENT): admin
-User registered successfully!
+1. Signup <br>
+2. Login <br>
+3. Exit <br>
+Choose: 1 <br>
+Enter name: akash        <br>
+Enter email: akash@gmail.com <br>
+Enter password: akash <br>
+Enter role (ADMIN/STUDENT): admin <br>
+User registered successfully! <br>
 
-1. Signup
-2. Login
-3. Exit
-Choose: 2
-Enter email: akash@gmail.com
-Enter password: akash
-Login successful! Welcome, akash (ADMIN)
+1. Signup <br>
+2. Login <br>
+3. Exit <br>
+Choose: 2 <br>
+Enter email: akash@gmail.com <br>
+Enter password: akash <br>
+Login successful! Welcome, akash (ADMIN) <br>
 
-1. Signup
-2. Login
-3. Exit
-Choose: 3
-Exiting...
+1. Signup <br>
+2. Login <br>
+3. Exit <br>
+Choose: 3 <br>
+Exiting... <br>
