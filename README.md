@@ -2,14 +2,14 @@ this is my first project
 <br>
  to run this 
  <br>
- javac model/*.java repository/*.java service/*.java Main.java
+ javac model/*.java repository/*.java service/*.java Main.java <br>
  Main.java 
  <br>
  in terminal 
  <br>
  1. Signup
-2. Login
-3. Exit
+3. Login
+4. Exit
 Choose:
 <br>
 choose ours need
@@ -17,16 +17,18 @@ choose ours need
 1. Signup
 2. Login
 3. Exit
+ <br>
 Choose: 1
 Enter name: adarsh thakur
 Enter email: adarsh@gmail.com
 Enter password: adarsh@1
 Enter role (ADMIN/STUDENT): student
 User registered successfully!
-
+<br>
 1. Signup
 2. Login
 3. Exit
+   <br>
 Choose: 2
 Enter email: adarsh@gmail.com
 Enter password: adarsh@123
