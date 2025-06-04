@@ -3,7 +3,7 @@ this is my first project
  to run this 
  <br>
  javac model/*.java repository/*.java service/*.java Main.java <br>
- Main.java 
+ java Main
  <br>
  in terminal 
  <br>
